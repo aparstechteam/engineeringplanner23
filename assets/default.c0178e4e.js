@@ -1,0 +1,1 @@
+import{_ as t}from"./EngineeringLogo.729d5949.js";import{_ as n,v as s,x as a,A as c,y as r,b2 as _}from"./entry.cfb3e261.js";const d={},l={class:"p-2"};function f(e,i){const o=t;return s(),a("div",null,[c(o),r("div",l,[_(e.$slots,"default")])])}const u=n(d,[["render",f]]);export{u as default};
