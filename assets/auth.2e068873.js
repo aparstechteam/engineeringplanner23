@@ -1,0 +1,1 @@
+import{_ as n}from"./EngineeringLogo.50369e77.js";import{_ as o,v as c,x as r,y as e,A as a,b2 as _}from"./entry.eb802e99.js";const i={},d={class:"py-10 min-h-screen bg_image"},l={class:"flex items-center justify-center"};function m(t,f){const s=n;return c(),r("div",d,[e("div",null,[e("div",l,[a(s)])]),_(t.$slots,"default")])}const g=o(i,[["render",m]]);export{g as default};
